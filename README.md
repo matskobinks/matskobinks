@@ -1,10 +1,10 @@
-# salam matskobinks 👋
+# selem matsko 👋
 
 c le profil github smr
 
 ## 🚀 about moi
 
-- 🔭 je suis étudiant chez INGETIS, en BTS SIO.
+- 🔭 je suis étudiant chez ingetis, en bts sio.
 - 👯 actuellement en recherche d'emploi
 - 📫 contacter moi les filles pitié @garsrelou
 - ⚡ les poissons panés ils sont vivant enft ils sont pas pas nés fin bref
@@ -25,7 +25,7 @@ c le profil github smr
 
 ![Matsko's GitHub stats](https://github-readme-stats.vercel.app/api?username=matskobinks&show_icons=true&theme=radical)
 
-## 📈 ce genre de code
+## 📈 ce genre de code mamene
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matskobinks&layout=compact&theme=radical)
 
