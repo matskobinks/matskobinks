@@ -1,10 +1,10 @@
 # selem matsko 👋
 
-c le profil github smr
+le profil github
 
 ## 🚀 about moi
 
-- 🔭 je suis étudiant chez ingetis, en bts sio.
+- 🔭 je suis étudiant
 - 👯 actuellement en recherche d'emploi
 - 📫 contacter moi les filles pitié @garsrelou
 - ⚡ les poissons panés ils sont vivant enft ils sont pas pas nés fin bref
